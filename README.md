@@ -44,19 +44,7 @@
         <h2>终极班</h2>
     </div>
     <!-- ... -->
-</div>
-<img width="151" alt="塔罗8" src="https://github.com/user-attachments/assets/d07dbedf-ca5d-4317-83ca-ba4749244b91">
-<img width="308" alt="塔罗7" src="https://github.com/user-attachments/assets/48ecc5c0-ffed-4af5-84b0-d58c20f56258">
-<img width="175" alt="塔罗6" src="https://github.com/user-attachments/assets/8fd7bde9-3acb-4a95-9741-510ef1a9c158">
-<img width="278" alt="塔罗5" src="https://github.com/user-attachments/assets/2adb72f8-5d5b-408f-a489-b68757255637">
-<img width="265" alt="塔罗4" src="https://github.com/user-attachments/assets/7e85373f-7580-4d7c-a144-e43997f1a53d">
-<img width="278" alt="塔罗3" src="https://github.com/user-attachments/assets/db5e72bd-43f9-401f-a388-08915dba729e">
-<img width="155" alt="塔罗2" src="https://github.com/user-attachments/assets/1922eac9-0119-4e63-9483-f0fa0d3e235d">
-<img width="152" alt="塔罗1" src="https://github.com/user-attachments/assets/e8b31e6a-3ce1-4b78-9a2d-27ec7a58567f">
-![支付宝收款码](https://github.com/user-attachments/assets/c66a615d-0ca6-4dca-b8c0-630e4e7fcb2d)
-![微信支付](https://github.com/user-attachments/assets/b9ece58b-5670-403e-ae61-31a032fe8f20)
-![微信二维码](https://github.com/user-attachments/assets/56d80b70-3ddf-4cb8-ace5-28a7a4b479fb)
-/* 调整特色图标样式 */
+    /* 调整特色图标样式 */
 .feature-icon {
     width: 80px;
     height: 80px;
@@ -171,3 +159,16 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
     `;
 });
+</div>
+<img width="151" alt="塔罗8" src="https://github.com/user-attachments/assets/d07dbedf-ca5d-4317-83ca-ba4749244b91">
+<img width="308" alt="塔罗7" src="https://github.com/user-attachments/assets/48ecc5c0-ffed-4af5-84b0-d58c20f56258">
+<img width="175" alt="塔罗6" src="https://github.com/user-attachments/assets/8fd7bde9-3acb-4a95-9741-510ef1a9c158">
+<img width="278" alt="塔罗5" src="https://github.com/user-attachments/assets/2adb72f8-5d5b-408f-a489-b68757255637">
+<img width="265" alt="塔罗4" src="https://github.com/user-attachments/assets/7e85373f-7580-4d7c-a144-e43997f1a53d">
+<img width="278" alt="塔罗3" src="https://github.com/user-attachments/assets/db5e72bd-43f9-401f-a388-08915dba729e">
+<img width="155" alt="塔罗2" src="https://github.com/user-attachments/assets/1922eac9-0119-4e63-9483-f0fa0d3e235d">
+<img width="152" alt="塔罗1" src="https://github.com/user-attachments/assets/e8b31e6a-3ce1-4b78-9a2d-27ec7a58567f">
+![支付宝收款码](https://github.com/user-attachments/assets/c66a615d-0ca6-4dca-b8c0-630e4e7fcb2d)
+![微信支付](https://github.com/user-attachments/assets/b9ece58b-5670-403e-ae61-31a032fe8f20)
+![微信二维码](https://github.com/user-attachments/assets/56d80b70-3ddf-4cb8-ace5-28a7a4b479fb)
+
